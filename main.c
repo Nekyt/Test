@@ -3,7 +3,7 @@
 
 
 int main(){
-	printf("hello bitches\n");
+	printf("hello bitchessh\n");
 	printf("vodka good!");
 	
 	john();
