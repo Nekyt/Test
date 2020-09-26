@@ -4,7 +4,8 @@
 
 int main(){
 	printf("hello bitches\n");
-	printf("vodka is good!");
+	printf("vodka good!");
+	
 	john();
 	john();
 }
