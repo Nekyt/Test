@@ -5,6 +5,7 @@
 int main(){
 	printf("hello bitches\n");
 	john();
+	john();
 }
 
 
